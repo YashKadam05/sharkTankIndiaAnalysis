@@ -8,8 +8,9 @@ SharkTankIndia S1 EDA using Python
 5. In next season which Shark will be the Top Investor ?
 
 
-# Data Collection
+# Data Source / Collection
 https://www.kaggle.com/datasets/parvthakkar/shark-tank-india
+
 [15 Features/Columns & 118 Records/Rows]
 1. Index
 2. Episode no.
