@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/parvthakkar/shark-tank-india
 
 
 # Feature Engineering
-Selecting necessary Features for Visualization
+Selecting necessary Features for Visualization.
 
 
 # Data Visualization
